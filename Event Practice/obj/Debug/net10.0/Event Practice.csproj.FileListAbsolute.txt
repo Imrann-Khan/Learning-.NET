@@ -1,0 +1,14 @@
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\Event Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\Event Practice.AssemblyInfoInputs.cache
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\Event Practice.AssemblyInfo.cs
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\Event Practice.csproj.CoreCompileInputs.cache
+D:\CP Solves\CP Solves\Course\Event Practice\bin\Debug\net10.0\Event Practice.exe
+D:\CP Solves\CP Solves\Course\Event Practice\bin\Debug\net10.0\Event Practice.deps.json
+D:\CP Solves\CP Solves\Course\Event Practice\bin\Debug\net10.0\Event Practice.runtimeconfig.json
+D:\CP Solves\CP Solves\Course\Event Practice\bin\Debug\net10.0\Event Practice.dll
+D:\CP Solves\CP Solves\Course\Event Practice\bin\Debug\net10.0\Event Practice.pdb
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\Event Practice.dll
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\refint\Event Practice.dll
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\Event Practice.pdb
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\Event Practice.genruntimeconfig.cache
+D:\CP Solves\CP Solves\Course\Event Practice\obj\Debug\net10.0\ref\Event Practice.dll

@@ -1,0 +1,14 @@
+D:\CP Solves\CP Solves\Course\new-app\bin\Debug\net10.0\new-app.exe
+D:\CP Solves\CP Solves\Course\new-app\bin\Debug\net10.0\new-app.deps.json
+D:\CP Solves\CP Solves\Course\new-app\bin\Debug\net10.0\new-app.runtimeconfig.json
+D:\CP Solves\CP Solves\Course\new-app\bin\Debug\net10.0\new-app.dll
+D:\CP Solves\CP Solves\Course\new-app\bin\Debug\net10.0\new-app.pdb
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\new-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\new-app.AssemblyInfoInputs.cache
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\new-app.AssemblyInfo.cs
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\new-app.csproj.CoreCompileInputs.cache
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\new-app.dll
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\refint\new-app.dll
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\new-app.pdb
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\new-app.genruntimeconfig.cache
+D:\CP Solves\CP Solves\Course\new-app\obj\Debug\net10.0\ref\new-app.dll

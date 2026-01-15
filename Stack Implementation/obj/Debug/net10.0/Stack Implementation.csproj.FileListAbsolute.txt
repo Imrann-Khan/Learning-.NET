@@ -1,0 +1,14 @@
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\Stack Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\Stack Implementation.AssemblyInfoInputs.cache
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\Stack Implementation.AssemblyInfo.cs
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\Stack Implementation.csproj.CoreCompileInputs.cache
+D:\CP Solves\CP Solves\Course\Stack Implementation\bin\Debug\net10.0\Stack Implementation.exe
+D:\CP Solves\CP Solves\Course\Stack Implementation\bin\Debug\net10.0\Stack Implementation.deps.json
+D:\CP Solves\CP Solves\Course\Stack Implementation\bin\Debug\net10.0\Stack Implementation.runtimeconfig.json
+D:\CP Solves\CP Solves\Course\Stack Implementation\bin\Debug\net10.0\Stack Implementation.dll
+D:\CP Solves\CP Solves\Course\Stack Implementation\bin\Debug\net10.0\Stack Implementation.pdb
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\Stack Implementation.dll
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\refint\Stack Implementation.dll
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\Stack Implementation.pdb
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\Stack Implementation.genruntimeconfig.cache
+D:\CP Solves\CP Solves\Course\Stack Implementation\obj\Debug\net10.0\ref\Stack Implementation.dll
