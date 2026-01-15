@@ -1,0 +1,15 @@
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\bin\Debug\net10.0\Asynchronus Programming.exe
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\bin\Debug\net10.0\Asynchronus Programming.deps.json
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\bin\Debug\net10.0\Asynchronus Programming.runtimeconfig.json
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\bin\Debug\net10.0\Asynchronus Programming.dll
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\bin\Debug\net10.0\Asynchronus Programming.pdb
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.AssemblyInfoInputs.cache
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.AssemblyInfo.cs
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.csproj.CoreCompileInputs.cache
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.sourcelink.json
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.dll
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\refint\Asynchronus Programming.dll
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.pdb
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\Asynchronus Programming.genruntimeconfig.cache
+D:\CP Solves\CP Solves\Course\Asynchronus Programming\obj\Debug\net10.0\ref\Asynchronus Programming.dll
