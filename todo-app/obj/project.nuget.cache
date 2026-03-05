@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6X+5VhZj5I=",
+  "success": true,
+  "projectFilePath": "D:\\Important\\CP Solves\\Course\\todo-app\\todo-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ik111\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\ik111\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
