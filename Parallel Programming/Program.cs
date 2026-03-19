@@ -91,27 +91,27 @@ namespace Program
     // 2. Task Parallelism
     class Program
     {
-        public static void Main(string[] args)
-        {
-            var stopwatch = new Stopwatch();
+        // public static void Main(string[] args)
+        // {
+        //     var stopwatch = new Stopwatch();
 
-            stopwatch.Start();
-            // Sequential manner in same thread
-            // Method1();
-            // Method2();
-            // Method3();
-            // Parallel manner in different thread
-            int x = 0, y = 0, z = 0;
-            Parallel.Invoke(
-                () => x = Method1(),
-                () => y = Method2(),
-                () => z = Method3()
-                );
-            stopwatch.Stop();
+        //     stopwatch.Start();
+        //     // Sequential manner in same thread
+        //     // Method1();
+        //     // Method2();
+        //     // Method3();
+        //     // Parallel manner in different thread
+        //     int x, y, z;
+        //     Parallel.Invoke(
+        //         () => x = Method1(),
+        //         () => y = Method2(),
+        //         () => z = Method3()
+        //         );
+        //     stopwatch.Stop();
 
-            Console.WriteLine($"Methods ran on thread IDs: {x}, {y}, and {z}. Highest ID: {Math.Max(Math.Max(x, y), z)}");
-            Console.WriteLine($"Parallel execution took {stopwatch.ElapsedMilliseconds} milliseconds");
-        }
+        //     Console.WriteLine($"Methods ran on thread IDs: {x}, {y}, and {z}. Highest ID: {Math.Max(Math.Max(x, y), z)}");
+        //     Console.WriteLine($"Parallel execution took {stopwatch.ElapsedMilliseconds} milliseconds");
+        // }
         static int Method1()
         {
             Thread.Sleep(3000);
@@ -129,6 +129,31 @@ namespace Program
             Thread.Sleep(3000);
             Console.WriteLine($"Method 3 Completed by Thread={Thread.CurrentThread.ManagedThreadId}");
             return Thread.CurrentThread.ManagedThreadId;
+        }
+    }
+
+    class ThreadSafety
+    {
+        static object lockObject = new object();
+        public static void Main(string[] args)
+        {
+            var varWithoutLocked=0;
+            Parallel.For(0, 1000, _ =>{
+
+                // Without synchronization (leads to unexpected value)
+                //varWithoutLocked++;
+
+                // using interlocked (atomic operation)
+                //Interlocked.Increment(ref varWithoutLocked);
+
+                // or we can use lock
+                lock (lockObject)
+                {
+                    varWithoutLocked++;
+                }
+            });
+            Console.WriteLine($"Expected value: 1000");
+            Console.WriteLine($"without using interlocked: {varWithoutLocked}");
         }
     }
 }
