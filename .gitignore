@@ -1,20 +1,27 @@
+# Build output
+[Bb]in/
+[Oo]bj/
 
-/Asynchronus Programming/bin/
+# .NET artifacts
+TestResults/
+artifacts/
+*.log
 
-/Class 2/bin/
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
 
-/Class 6/bin/
+# IDE/tooling
+.vs/
 
-/Event Practice/bin/
+# NuGet
+*.nupkg
+*.snupkg
+packages/
 
-/Queue Implementation/bin/
-
-/Stack Implementation/bin/
-
-/Parallel Programming/bin
-
-/todo-app/bin
-
-/LINQ/Day 1/bin
-
-/LINQ/Day 2/bin
+# OS files
+.DS_Store
+Thumbs.db
